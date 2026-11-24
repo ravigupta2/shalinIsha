@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shalin and Isha//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:shalin-isha-wedding-20270126@invitation
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270128
+SUMMARY:Shalin & Isha's Wedding Celebrations
+LOCATION:Kesar Bagh Palace\, Chittorgarh\, Rajasthan
+DESCRIPTION:Celebrations begin on 26 January at 10:00 am IST.
+END:VEVENT
+END:VCALENDAR
