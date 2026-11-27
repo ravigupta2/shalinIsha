@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000).
 ## Current invitation sections
 
 - Illustrated palace cover and an opening invitation card
-- A letter telling Shalin and Isha’s story, alongside their illustrated portrait
+- A letter telling Shalin and Isha’s story, alongside their pavilion photograph
 - Scratch-to-reveal save-the-date card, countdown and calendar download
 - Updated wedding schedule, directions to Kesar Bagh Palace and the Bharuch reception
 - The Wedding Edit wardrobe planner, with outfit ideas guests can save on their device
@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 The January 26–27 schedule and wardrobe guide use Isha’s latest notes. Venue, family and reception details come from the existing wedding invitation. The palace illustration was created for this site, and the couple portrait is an illustrated treatment of their supplied photo.
 
-The supplied wedding clip provides the site's background audio and the reel soundtrack. The portrait reel animates the same seven PDF cards with slow camera moves, soft crossfades, and a music fade at the end.
+The site plays “Our Forever,” an original flute and plucked-string instrumental. The reel uses the supplied wedding clip as its soundtrack. The portrait reel animates the same seven PDF cards with slow camera moves, soft crossfades, and a music fade at the end.
 
 ## Deliverables
 
